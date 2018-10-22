@@ -14,6 +14,6 @@ public class HelloWildFlyController {
 
     @RequestMapping("manage-customer")
     public String manageCustomer () {
-        return ("|Manage Customer Service| <Implementation Here Please> ");
+        return ("| Manage Customer Service | Implementation Here Please");
     }
 }
